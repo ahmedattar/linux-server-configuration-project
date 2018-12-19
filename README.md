@@ -190,4 +190,12 @@ sudo service apache2 restart
 * The IP Address: [34.220.97.82](http://34.220.97.82/)
 *  URL using DNS: [ec2-34-220-97-82.us-west-2.compute.amazonaws.com](http://ec2-34-220-97-82.us-west-2.compute.amazonaws.com/)
 
-
+### what resources , I used in this project ?
+* [Amazon EC2 Linux Instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html) to know about the instances in amazon 'aws 'and how it is work and how to deal with them.
+* [Apache Server Configuration Files](https://httpd.apache.org/docs/current/configuring.html) : to know about how to configure Apache server file.
+* [Deploy a Flask Application on an Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps) : to know about dploying flask applications on Ubuntu virtual private server
+* [Set Up Apache Virtual Hosts on Ubuntu ](https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts) : to know how to deal with Apache virtual hosts on Ubuntu
+* [mod_wsgi documentation](https://modwsgi.readthedocs.io/en/develop/) , [Flask mod_wsgi (Apache)](http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/) : to deal with mod_wsgi files , which are used to configure Apache servers
+* [Automatic Security Updates](https://help.ubuntu.com/community/AutomaticSecurityUpdates#Using_the_.22unattended-upgrades.22_package) : to make the system is updated continously to fight any probable security risk.
+*  [Stack Overflow](https://stackoverflow.com/) : for any problem in your code, you can ask in this important site about it , this website has many programmers and experts to answer you.
+* [Ask Ubuntu](https://askubuntu.com/) : for any problem in ubuntu (linux distribution) and how to deal with it.
