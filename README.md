@@ -196,6 +196,6 @@ sudo service apache2 restart
 * [Deploy a Flask Application on an Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps) : to know about dploying flask applications on Ubuntu virtual private server
 * [Set Up Apache Virtual Hosts on Ubuntu ](https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts) : to know how to deal with Apache virtual hosts on Ubuntu
 * [mod_wsgi documentation](https://modwsgi.readthedocs.io/en/develop/) , [Flask mod_wsgi (Apache)](http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/) : to deal with mod_wsgi files , which are used to configure Apache servers
-* [Automatic Security Updates](https://help.ubuntu.com/community/AutomaticSecurityUpdates#Using_the_.22unattended-upgrades.22_package) : to make the system is updated continously to fight any probable security risk.
-*  [Stack Overflow](https://stackoverflow.com/) : for any problem in your code, you can ask in this important site about it , this website has many programmers and experts to answer you.
-* [Ask Ubuntu](https://askubuntu.com/) : for any problem in ubuntu (linux distribution) and how to deal with it.
+* [Automatic Security Updates for the system](https://help.ubuntu.com/community/AutomaticSecurityUpdates#Using_the_.22unattended-upgrades.22_package) : to make the system is updated continously to fight any probable security risk.
+*  [Stack Overflow Website](https://stackoverflow.com/) : for any problem in your code, you can ask in this important site about it , this website has many programmers and experts to answer you.
+* [Ask Ubuntu Website](https://askubuntu.com/) : for any problem in ubuntu (linux distribution) and how to deal with it.
